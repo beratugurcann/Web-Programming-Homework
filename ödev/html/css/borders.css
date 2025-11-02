@@ -1,0 +1,6 @@
+/* Çerçeve stilleri */
+p { padding: 10px; margin: 10px; }
+
+.solid { border: 2px solid black; }
+.dashed { border: 2px dashed blue; }
+.dotted { border: 2px dotted red; }

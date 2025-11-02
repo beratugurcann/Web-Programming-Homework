@@ -1,0 +1,12 @@
+/* Gölge örnekleri */
+.box {
+    width: 150px;
+    height: 100px;
+    background: lightblue;
+    box-shadow: 4px 4px 8px gray;
+    margin: 20px;
+}
+
+.text {
+    text-shadow: 2px 2px 4px gray;
+}

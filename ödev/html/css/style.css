@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    padding: 20px; /* Sayfa kenarına boşluk */
+    line-height: 1.6; /* Okuması rahat */
+}
+
+h1 {
+    color: royalblue;
+    text-align: center; /* Başlığı ortaya alır */
+    margin-bottom: 20px; /* Alt boşluk */
+}
+
+p {
+    color: #333; /* Daha okunaklı koyu gri */
+    max-width: 600px; /* Satır uzunluğu kontrolü */
+    margin: 0 auto; /* Ortala */
+}

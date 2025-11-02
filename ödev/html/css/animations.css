@@ -1,0 +1,13 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: royalblue;
+    position: relative;
+    animation: moveBox 3s infinite alternate;
+}
+
+/* Basit animasyon hareketi */
+@keyframes moveBox {
+    from { left: 0; background: royalblue; }
+    to { left: 300px; background: crimson; }
+}

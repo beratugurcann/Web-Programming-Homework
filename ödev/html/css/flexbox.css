@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: lightgray;
+    padding: 20px;
+}
+
+.item {
+    background: steelblue;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+* {
+    color: white;
+}
+
+body {
+    background-image: url(https://wallpapers.com/images/high/professional-programmer-coding-at-his-workstation-2wth9wmvxthrg1fx.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed; 
+    background-size: cover; 
+}

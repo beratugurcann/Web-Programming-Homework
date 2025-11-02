@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.kutu {
+    width: 180px;
+    height: 100px;
+    border: 1px solid #666;
+    margin: 15px auto;
+    background-color: #fff8dc;
+    padding: 5px;
+}
+
+.gizli {
+    overflow: hidden;
+}
+
+.kaydır {
+    overflow: scroll;
+}
